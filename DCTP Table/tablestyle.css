@@ -6,6 +6,10 @@ body {
     font-family: 'McLaren', cursive;
 }
 
+.table-container > h1 {
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .table-container {
     /* display: block; */
